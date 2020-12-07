@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Makki Anjum</h1>
 <h3 align="center">Full Stack Web Engineer</h3>
 [![MakkiAnjum
-header](https://github.com/makkianjum/makkianjum/blob/master/Blue and Red 72x36 Landscape Voter Education Campaign Banner.png)](https://makkianjum.herokuapp.com)
+header](https://github.com/makkianjum/makkianjum/blob/master/banner.png)](https://makkianjum.herokuapp.com)
 
 <p align="left"> <a href="https://twitter.com/makkihere" target="blank"><img src="https://img.shields.io/twitter/follow/makkihere?logo=twitter&style=for-the-badge" alt="makkihere" /></a> </p>
 
