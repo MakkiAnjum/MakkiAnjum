@@ -20,7 +20,12 @@ header](https://github.com/MakkiAnjum/MakkiAnjum/blob/main/banner.png)](https://
 
 - 📄 Know about my experiences [https://makkianjum.herokuapp.com/](https://makkianjum.herokuapp.com/)
 
-- ⚡ Fun fact **I believe I am super quick learner**
+- ⚡ Fun fact **I figured out the world’s oldest question with a single line of JavaScript**
+
+**Which came first: the chicken or the egg?**
+console.log(["🥚", "🐣", "🐥", "🐔"].sort())
+
+**>>>** ["🐔", "🐣", "🐥", "🥚"]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
