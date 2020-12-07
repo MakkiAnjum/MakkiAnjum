@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Engineer</h3>
 
 [![MakkiAnjum
-header](https://github.com/MakkiAnjum/MakkiAnjum/blob/master/banner.png)](https://daily-dev-tips.com)
+header](https://github.com/MakkiAnjum/MakkiAnjum/blob/main/banner.png)](https://makkianjum.herokuapp.com)
 
 <p align="left"> <a href="https://twitter.com/makkihere" target="blank"><img src="https://img.shields.io/twitter/follow/makkihere?logo=twitter&style=for-the-badge" alt="makkihere" /></a> </p>
 
