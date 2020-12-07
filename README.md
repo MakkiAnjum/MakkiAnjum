@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Makki Anjum</h1>
 <h3 align="center">Full Stack Web Engineer</h3>
 
-[![Rebelchris
-header](https://github.com/rebelchris/rebelchris/blob/master/assets/github-header.png)](https://daily-dev-tips.com)
+[![MakkiAnjum
+header](https://github.com/MakkiAnjum/MakkiAnjum/blob/master/banner.png)](https://daily-dev-tips.com)
 
 <p align="left"> <a href="https://twitter.com/makkihere" target="blank"><img src="https://img.shields.io/twitter/follow/makkihere?logo=twitter&style=for-the-badge" alt="makkihere" /></a> </p>
 
