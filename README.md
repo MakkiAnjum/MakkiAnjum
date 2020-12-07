@@ -14,7 +14,7 @@ header](https://github.com/MakkiAnjum/MakkiAnjum/blob/main/banner.png)](https://
 
 - 👨‍💻 All of my projects are available at [https://makkianjum.herokuapp.com/](https://makkianjum.herokuapp.com/)
 
-- 💬 Ask me about **react, node, JavaScript, DevOps**
+- 💬 Ask me about **ReactJS, NodeJS, JavaScript, DevOps**
 
 - 📫 How to reach me **muhammadmakkianjum@gmail.com**
 
