@@ -8,13 +8,13 @@ header](https://github.com/MakkiAnjum/MakkiAnjum/blob/main/banner.png)](https://
 
 - 🔭 I’m currently working at **Sectem Technologies**
 
-- 🌱 I’m currently learning **Mircroservices, Micro-frontends, DevOps**
+- 🌱 I’m currently learning **Mircroservices, Micro-frontends, Design Patterns, DevOps**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
 - 👨‍💻 All of my projects are available at [https://makkianjum.herokuapp.com/](https://makkianjum.herokuapp.com/)
 
-- 💬 Ask me about **ReactJS, NodeJS, JavaScript, DevOps**
+- 💬 Ask me about **ReactJS, NodeJS, JavaScript, TypeScript**
 
 - 📫 How to reach me **muhammadmakkianjum@gmail.com**
 
