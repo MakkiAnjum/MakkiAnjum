@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Makki Anjum</h1>
-<h3 align="center">Web Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 [![MakkiAnjum
 header](https://github.com/MakkiAnjum/MakkiAnjum/blob/main/banner.png)](https://makkianjum.herokuapp.com)
