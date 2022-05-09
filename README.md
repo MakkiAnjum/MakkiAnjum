@@ -6,7 +6,7 @@ header](https://github.com/MakkiAnjum/MakkiAnjum/blob/main/cover.png)](https://m
 
 <p align="left"> <a href="https://twitter.com/makkihere" target="blank"><img src="https://img.shields.io/twitter/follow/makkihere?logo=twitter&style=for-the-badge" alt="makkihere" /></a> </p>
 
-- 🔭 I’m currently working at **Sectem Technologies**
+- 🔭 I’m currently working at **Synectics Solutions Ltd. England, United Kingdom**
 
 - 🌱 I’m currently learning **Mircroservices, Micro-frontends, Design Patterns, DevOps**
 
