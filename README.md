@@ -18,7 +18,7 @@ header](https://github.com/MakkiAnjum/MakkiAnjum/blob/main/cover.png)](https://m
 
 - 📫 How to reach me **muhammadmakkianjum@gmail.com**
 
-- 📄 Know about my experiences [https://makkianjum.herokuapp.com/](https://makkianjum.herokuapp.com/)
+- 📄 Know about my experiences [[https://makkianjum.herokuapp.com](https://makkianjum.vercel.app/)/]
 
 - ⚡ Fun fact **I figured out the world’s oldest question with a single line of JavaScript**
 
