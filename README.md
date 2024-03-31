@@ -12,13 +12,13 @@ header](https://github.com/MakkiAnjum/MakkiAnjum/blob/main/cover.png)](https://m
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 👨‍💻 All of my projects are available at [https://makkianjum.herokuapp.com/](https://makkianjum.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [(https://makkianjum.vercel.app/)](https://makkianjum.vercel.app/)
 
 - 💬 Ask me about **ReactJS, NodeJS, JavaScript, TypeScript**
 
 - 📫 How to reach me **muhammadmakkianjum@gmail.com**
 
-- 📄 Know about my experiences [[https://makkianjum.herokuapp.com](https://makkianjum.vercel.app/)/]
+- 📄 Know about my experiences [(https://makkianjum.vercel.app/)](https://makkianjum.vercel.app/)
 
 - ⚡ Fun fact **I figured out the world’s oldest question with a single line of JavaScript**
 
