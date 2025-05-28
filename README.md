@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on <strong> Magento projects </strong>
 <br>👯 I’m looking to collaborate on <strong> opensource projects </strong>
-<br>🤝 I’m currently working for <strong> Synectics Solutions Ltd UK 🇬🇧 </strong> 
 <br>🌱 I’m currently learning <strong> DevOps, Linux Administration, Magento </strong>
 <br>💬 Ask me about <strong> React.js, Node.js, JavaScript, TypeScript, Magento, AWS </strong>
 <br>⚡ Fun fact => I figured out the world’s oldest question with a single line of JavaScript<br><br>Which came first: the chicken or the egg? console.log(["🥚", "🐣", "🐥", "🐔"].sort())<br><br>>>> ["🐔", "🐣", "🐥", "🥚"]<br>
